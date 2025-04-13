@@ -62,7 +62,7 @@
 
 11. Any spots where there is a cut in the cardboard for a cable as shown in the 3d model where there is paper interfering, by cutting with a razor horizontally on the back of the paper where the cable needs to go, it can be slotted in easily.
 
-12. When all is done plug in your power cable to the Pi and Battery, wait for it to boot for a few seconds then browse to the Pi's IP address and enjoy surfing the waterfall!
+12. When all is done plug in your power cable to the Pi and Battery, wait for it to boot for a few seconds then browse to the PI's IP address and enjoy surfing the waterfall!
 
 
 ## Blueprint of supports for hardware
