@@ -1,17 +1,19 @@
 # covert-radio
 
-This is a Covert Radio disguised in a binder. The parts are as follows:
+## This is a Covert Radio disguised in a binder. The parts are as follows:
+
 Anker Powercore 10000mAh Portable Battery
 Anker 4 Port USB Dock (Not strictly necessary but to allow for ethernet to be used easily without an obvious cable snaking out, and to also allow the Radio to be situated inside the binder it was the best choice)
 Raspberry Pi 3 B v2, Running OpenWebRx+
 RTL SDR Blog v4 (avoid counterfits!)
 Dipole Antenna w/ Coaxial Connector
 
-Pictures:
+
+## Pictures:
 
 
 
-Build Instructions:
+## Build Instructions:
 First I harvested a binder. Breaking off the Rings was trivial, using pliers. Designing this with my backpack in mind, I cut the sides of it to allow it to squeeze into a laptop slot in the bag. To make it look pretty, I painted over the cut edges with white paint.
 To make the thing look like a normal binder not something used for other purposes, I cut pieces of scrap paper to the size of the binder allowing room for them to stick out. I did it in three sections for the top, bottom and side. By cutting tons of paper and then glueing the far side of it, it would make the paper look like it was springing out of the binder. A thing to note is to vary the size so it looks natural. 
 After doing this three times I split the long side horizontally on the top and bottom just enough for them to slide in, so it wouldnt be obvious and then glued them along the edges of the binder as shown.
