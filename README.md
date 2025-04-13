@@ -5,6 +5,7 @@
 -Anker Powercore 10000mAh Portable Battery
 
 -Anker 4 Port USB Dock (Not strictly necessary but to allow for ethernet to be used easily without an obvious cable snaking out, and to also allow the Radio to be situated inside the binder it was the best choice)
+
 -Raspberry Pi 3 B v2, Running OpenWebRx+
 
 -RTL SDR Blog v4 (avoid counterfits!)
