@@ -16,7 +16,8 @@
 
 ## Pictures:
 
-https://raw.githubusercontent.com/ry-gr/covert-radio/refs/heads/main/IMG_7632.JPG?token=GHSAT0AAAAAADBKL7VSUSNK5KMCVODYLKVSZ74BCOQ
+![IMG_7632](https://github.com/user-attachments/assets/d6895f33-442a-42c2-b4de-7eb79d76d7aa)
+
 
 
 
