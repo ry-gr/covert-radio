@@ -26,7 +26,8 @@
 
 ![IMG_7898](https://github.com/user-attachments/assets/bbf02d41-1670-4a97-9551-3ff2c6dd83db)
 
-![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/89e2d2df-9baf-464f-9e2d-318b2261077e)
+![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/5ef5d11b-4fd1-48be-8696-dfd52e064367)
+
 
 ## Build Instructions:
 
