@@ -29,7 +29,7 @@ Side view of backpack zipped, with Dipole Antenna inserted in side bottle holder
 ![IMG_7898](https://github.com/user-attachments/assets/bbf02d41-1670-4a97-9551-3ff2c6dd83db)
 Inside view of side bottle holder, showing the Dipole Antenna operationally deployed, while remaining invisible to the outside observer
 
-![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/5ef5d11b-4fd1-48be-8696-dfd52e064367)
+![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/c9ac539c-69e5-4c64-a27f-b38023ced996)
 The web interface of OpenWebRX+ taken of my radio while in use
 
 
