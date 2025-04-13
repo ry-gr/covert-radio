@@ -64,7 +64,7 @@ The web interface of OpenWebRX+ taken of my radio while in use
 
 10. Now placing in the components is fairly easy, one thing to note is to plug in the RTL SDR 4 before putting in the dock, and sliding them in together so they fit well otherwise they will not fit.
 
-11. Any spots where there is a cut in the cardboard for a cable as shown in the 3d model where there is paper interfering, by cutting with a razor horizontally on the back of the paper where the cable needs to go, it can be slotted in easily.
+11. Any spots where there is a cut in the cardboard for a cable as shown in the 3d model but there is paper interfering this can be solved by cutting with a razor horizontally on the back of the paper where the cable needs to go. Then it can be slotted in easily.
 
 12. When all is done plug in your power cable to the Pi and Battery, wait for it to boot for a few seconds then browse to the PI's IP address on your browser of choice and enjoy surfing the waterfall!
 
