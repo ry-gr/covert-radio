@@ -22,11 +22,14 @@
 
 
 ## Build Instructions:
-First I harvested a binder. Breaking off the Rings was trivial, using pliers. Designing this with my backpack in mind, I cut the sides of it to allow it to squeeze into a laptop slot in the bag. To make it look pretty, I painted over the cut edges with white paint.
-To make the thing look like a normal binder not something used for other purposes, I cut pieces of scrap paper to the size of the binder allowing room for them to stick out. I did it in three sections for the top, bottom and side. By cutting tons of paper and then glueing the far side of it, it would make the paper look like it was springing out of the binder. A thing to note is to vary the size so it looks natural. 
-After doing this three times I split the long side horizontally on the top and bottom just enough for them to slide in, so it wouldnt be obvious and then glued them along the edges of the binder as shown.
-
-The Next step is to measure your components and hot glue them down. I made a simple 3d Model using the scales of the parts and then printed out a 2d version and traced, then glued cardboard on the traced lines. The 3d Model blueprint of where the components go is attached below
+1. First I harvested a binder. Breaking off the Rings was trivial, using pliers. Designing this with my backpack in mind, I cut the sides of it to allow it to squeeze into a laptop slot in the bag.
+2. To make it look clean, I painted over the cut edges with white paint.
+3. To conceal the device further I cut pieces of scrap paper to the size of the binder allowing room for them to stick out. I did it in three sections for the top, bottom and side. By cutting tons of paper and then glueing the far side of it, it would make the paper look like it was springing out of the binder.
+   - A thing to note is to vary the size of the papers so they look natural
+   - After doing this three times I split the long side horizontally on the top and bottom just enough for them to slide in, so it wouldnt be obvious and then glued them along the edges of the binder as shown.
+4. The Next step is to measure your components and hot glue them down.
+   - I made a simple 3d Model using the scales of the parts and then printed a dimensionally accurate 2d version out and traced it, then glued cardboard on the traced lines.
+   - The 3d Model blueprint of where the components go is attached below:
 ```stl
 solid 
 facet normal 1.0 0.0 0.0
@@ -2622,12 +2625,20 @@ endfacet
 endsolid
 ```
 Now above i glued some cardboard to the top panel of the binder to securely hold the battery and dock in place as pictured:
+![IMG_7879](https://github.com/user-attachments/assets/cef16b31-624c-4c92-9ea6-2f0ef8214423)
 
-Now we must harvest some magnets. Now if you have strong magnets use those, but i did not so what i did was opened up old broken hard drives and extracted them from there. (The 3.5 inch HDD magnets are bigger so that is preferred, but the 2.5 inch "laptop" size also will work.
+Now we must harvest some magnets. Now if you have strong magnets use those, but i did not so what i did was opened up old broken hard drives and extracted them from there. (The 3.5 inch HDD magnets are bigger so that is preferred, but the 2.5 inch "laptop" size also will work.)
 
 Then in the divots on the cardboard glue down magents covering them with another glued piece of cardboard so they are very secure. To make sure they align on the top I put a small amount of glue on the top of the other magnets and then closed the binder to see where it was on the top. With that placement glue in the other two magnets.
 
-Next we will install OpenWebRX+ on the rPi. By flashing luarvique's prebuilt images using any flashing software (Balena Etcher for example) it is plug and play to install, you will just need to connect input devices to configure first launch. https://github.com/luarvique/openwebrx. Once Flashed insert into the Pi and do inital setup. Here you can connect to wifi or ethernet and find the IP address. Note that down.
+
+Next we will install OpenWebRX+ on the rPi. By flashing luarvique's prebuilt images using any flashing software (Balena Etcher for example) it is plug and play to install.
+
+Download the iamge from here: https://github.com/luarvique/openwebrx/releases/latest
+
+Once Flashed insert into the Pi and do inital setup with a keyboard. Here you can connect to wifi or ethernet, by entering sudo raspi-config
+
+After network is set up and the PI is rebooted, above the terminal input section the IP address of the device is shown which should be recorded somewhere.
 
 
 Now placing in the components is fairly easy, one thing to note is to plug in the RTL SDR 4 before putting in the dock, and sliding them in together so they fit well otherwise they will not fit.
