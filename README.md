@@ -14,9 +14,9 @@
 -RTL SDR Blog v4 (avoid counterfits!)
 
 
-
-
 ## Pictures:
+
+https://raw.githubusercontent.com/ry-gr/covert-radio/refs/heads/main/IMG_7632.JPG?token=GHSAT0AAAAAADBKL7VSUSNK5KMCVODYLKVSZ74BCOQ
 
 
 
