@@ -34,8 +34,7 @@
    - I made a simple 3d Model using the scales of the parts and then printed a dimensionally accurate 2d version out and traced it, then glued cardboard on the traced lines.
    - The 3d Model blueprint of where the components go is attached at the very end of this document.
 
-5. Now above i glued some cardboard to the top panel of the binder to securely hold the battery and dock in place as pictured:
-![IMG_7879](https://github.com/user-attachments/assets/cef16b31-624c-4c92-9ea6-2f0ef8214423)
+5. Now above i glued some cardboard to the top panel of the binder to securely hold the battery and dock in place so when it shakes it will not rattle around.
 
 6. Now we must harvest some magnets. If you already own strong magnets use those
    - Since I did I opened up old broken hard drives and extracted them from there. (The 3.5 inch HDD magnets are bigger so that is preferred, but the 2.5 inch "laptop" size also will work.)
