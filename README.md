@@ -21,12 +21,16 @@
 ![IMG_7884](https://github.com/user-attachments/assets/12b47bc4-19df-4b32-993d-a1d5cac0c55a)
 
 ![IMG_7892](https://github.com/user-attachments/assets/34bf9b7c-f6c5-4bf9-9925-1afd7ea93a69)
+Top down view of radio inserted in backpack, Radio is the closest to the back
 
 ![IMG_7899](https://github.com/user-attachments/assets/4ee049a3-da2c-4436-91f3-e4725dec950b)
+Side view of backpack zipped, with Dipole Antenna inserted in side bottle holder
 
 ![IMG_7898](https://github.com/user-attachments/assets/bbf02d41-1670-4a97-9551-3ff2c6dd83db)
+Inside view of side bottle holder, showing the Dipole Antenna operationally deployed, while remaining invisible to the outside observer
 
 ![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/5ef5d11b-4fd1-48be-8696-dfd52e064367)
+The web interface of OpenWebRX+ taken of my radio while in use
 
 
 ## Build Instructions:
