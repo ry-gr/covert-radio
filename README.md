@@ -21,7 +21,7 @@
 ![IMG_7884](https://github.com/user-attachments/assets/12b47bc4-19df-4b32-993d-a1d5cac0c55a)
 
 ![IMG_7892](https://github.com/user-attachments/assets/34bf9b7c-f6c5-4bf9-9925-1afd7ea93a69)
-Top down view of radio inserted in backpack, Radio is the closest to the back
+Top down view of radio inserted in backpack, Radio is the closest to the back in the laptop slot
 
 ![IMG_7899](https://github.com/user-attachments/assets/4ee049a3-da2c-4436-91f3-e4725dec950b)
 Side view of backpack zipped, with Dipole Antenna inserted in side bottle holder
