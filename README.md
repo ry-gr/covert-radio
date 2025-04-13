@@ -32,7 +32,33 @@
 
 4. The Next step is to measure your components and hot glue them down.
    - I made a simple 3d Model using the scales of the parts and then printed a dimensionally accurate 2d version out and traced it, then glued cardboard on the traced lines.
-   - The 3d Model blueprint of where the components go is attached below:
+   - The 3d Model blueprint of where the components go is attached at the very end of this document.
+
+5. Now above i glued some cardboard to the top panel of the binder to securely hold the battery and dock in place as pictured:
+![IMG_7879](https://github.com/user-attachments/assets/cef16b31-624c-4c92-9ea6-2f0ef8214423)
+
+6. Now we must harvest some magnets. If you already own strong magnets use those
+   - Since I did I opened up old broken hard drives and extracted them from there. (The 3.5 inch HDD magnets are bigger so that is preferred, but the 2.5 inch "laptop" size also will work.)
+     
+7. Then in the divots on the cardboard glue down magents covering them with another glued piece of cardboard so they are very secure.
+   - To make sure they align on the top I put a small amount of glue on the top of the other magnets and then closed the binder to see where it was on the top. With that placement glue in the other two magnets.
+
+8. Next we will install OpenWebRX+ on the rPi. By flashing luarvique's prebuilt images using any flashing software (Balena Etcher for example) it is plug and play to install and with the RTL-SDR 4.
+   - Download the image from here: https://github.com/luarvique/openwebrx/releases/latest
+
+9. Once Flashed insert into the Pi and do inital setup with a keyboard.
+   - Here you can connect to wifi or ethernet, by entering sudo raspi-config
+   - After network is set up and the PI is rebooted, above the terminal input section the IP address of the device is shown which should be recorded somewhere.
+
+10. Now placing in the components is fairly easy, one thing to note is to plug in the RTL SDR 4 before putting in the dock, and sliding them in together so they fit well otherwise they will not fit.
+
+11. Any spots where there is a cut in the cardboard for a cable as shown in the 3d model where there is paper interfering, by cutting with a razor horizontally on the back of the paper where the cable needs to go, it can be slotted in easily.
+
+12. When all is done plug in your power cable to the Pi and Battery, wait for it to boot for a few seconds then browse to the Pi's IP address and enjoy surfing the waterfall!
+
+
+## Blueprint of supports for hardware
+
 ```stl
 solid 
 facet normal 1.0 0.0 0.0
@@ -2627,25 +2653,3 @@ facet normal 0.0 0.0 -1.0
 endfacet
 endsolid
 ```
-5. Now above i glued some cardboard to the top panel of the binder to securely hold the battery and dock in place as pictured:
-![IMG_7879](https://github.com/user-attachments/assets/cef16b31-624c-4c92-9ea6-2f0ef8214423)
-
-6. Now we must harvest some magnets. If you already own strong magnets use those
-   - Since I did I opened up old broken hard drives and extracted them from there. (The 3.5 inch HDD magnets are bigger so that is preferred, but the 2.5 inch "laptop" size also will work.)
-     
-7. Then in the divots on the cardboard glue down magents covering them with another glued piece of cardboard so they are very secure.
-   - To make sure they align on the top I put a small amount of glue on the top of the other magnets and then closed the binder to see where it was on the top. With that placement glue in the other two magnets.
-
-8. Next we will install OpenWebRX+ on the rPi. By flashing luarvique's prebuilt images using any flashing software (Balena Etcher for example) it is plug and play to install and with the RTL-SDR 4.
-   - Download the image from here: https://github.com/luarvique/openwebrx/releases/latest
-
-9. Once Flashed insert into the Pi and do inital setup with a keyboard.
-   - Here you can connect to wifi or ethernet, by entering sudo raspi-config
-   - After network is set up and the PI is rebooted, above the terminal input section the IP address of the device is shown which should be recorded somewhere.
-
-10. Now placing in the components is fairly easy, one thing to note is to plug in the RTL SDR 4 before putting in the dock, and sliding them in together so they fit well otherwise they will not fit.
-
-11. Any spots where there is a cut in the cardboard for a cable as shown in the 3d model where there is paper interfering, by cutting with a razor horizontally on the back of the paper where the cable needs to go, it can be slotted in easily.
-
-12. When all is done plug in your power cable to the Pi and Battery, wait for it to boot for a few seconds then browse to the Pi's IP address and enjoy surfing the waterfall!
-
