@@ -16,9 +16,9 @@
 
 ## Pictures:
 
-![IMG_7632](https://github.com/user-attachments/assets/d6895f33-442a-42c2-b4de-7eb79d76d7aa)
+![IMG_7880](https://github.com/user-attachments/assets/7895d0c5-9cde-409c-a398-afd0be1f3a95)
 
-
+![IMG_7884](https://github.com/user-attachments/assets/12b47bc4-19df-4b32-993d-a1d5cac0c55a)
 
 
 ## Build Instructions:
