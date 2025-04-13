@@ -20,8 +20,16 @@
 
 ![IMG_7884](https://github.com/user-attachments/assets/12b47bc4-19df-4b32-993d-a1d5cac0c55a)
 
+![IMG_7892](https://github.com/user-attachments/assets/34bf9b7c-f6c5-4bf9-9925-1afd7ea93a69)
+
+![IMG_7899](https://github.com/user-attachments/assets/4ee049a3-da2c-4436-91f3-e4725dec950b)
+
+![IMG_7898](https://github.com/user-attachments/assets/bbf02d41-1670-4a97-9551-3ff2c6dd83db)
+
+![Screen Shot 2025-04-13 at 12 54 52 PM](https://github.com/user-attachments/assets/89e2d2df-9baf-464f-9e2d-318b2261077e)
 
 ## Build Instructions:
+
 1. First I harvested a binder. Breaking off the Rings was trivial, using pliers. Designing this with my backpack in mind, I cut the sides of it to allow it to squeeze into a laptop slot in the bag.
 
 2. To make it look clean, I painted over the cut edges with white paint.
