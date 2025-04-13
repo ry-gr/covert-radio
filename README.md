@@ -55,7 +55,7 @@
    - Download the image from here: https://github.com/luarvique/openwebrx/releases/latest
 
 9. Once Flashed insert into the Pi and do inital setup with a keyboard.
-   - Here you can connect to wifi or ethernet, by entering **sudo raspi-config**
+   - Here you can connect to wifi or ethernet, by entering ***sudo raspi-config***
    - After network is set up and the PI is rebooted, above the terminal input section the IP address of the device is shown which should be recorded somewhere.
 
 10. Now placing in the components is fairly easy, one thing to note is to plug in the RTL SDR 4 before putting in the dock, and sliding them in together so they fit well otherwise they will not fit.
